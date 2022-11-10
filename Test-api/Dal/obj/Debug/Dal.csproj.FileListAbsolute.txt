@@ -1,0 +1,42 @@
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\Dal.dll.config
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\Dal.dll
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\Dal.pdb
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\EntityFramework.dll
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\System.Web.Cors.dll
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\System.Web.Http.dll
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\EntityFramework.xml
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\System.Web.Http.xml
+C:\Users\Public\שושנה\Test-api\Dal\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Public\שושנה\Test-api\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\Public\שושנה\Test-api\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Public\שושנה\Test-api\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Public\שושנה\Test-api\Dal\obj\Debug\Dal.dll
+C:\Users\Public\שושנה\Test-api\Dal\obj\Debug\Dal.pdb
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\Dal.dll.config
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\Dal.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\Dal.pdb
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\EntityFramework.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\System.Web.Cors.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\System.Web.Http.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\EntityFramework.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\System.Web.Http.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\obj\Debug\Dal.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Dal\obj\Debug\Dal.pdb

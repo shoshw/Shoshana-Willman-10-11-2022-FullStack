@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WeatherModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="favorite_cities">
+    <Key>
+      <PropertyRef Name="CityId" />
+    </Key>
+    <Property Name="CityId" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="LocalizedName" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="WeatherEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="favorite_cities" EntityType="Self.favorite_cities" />
+    <EntitySet Name="cities_weather" EntityType="WeatherModel.cities_weather" />
+  </EntityContainer>
+  <EntityType Name="cities_weather">
+    <Key>
+      <PropertyRef Name="CityId" />
+    </Key>
+    <Property Name="CityId" Type="String" Nullable="false" MaxLength="100" FixedLength="true" Unicode="true" />
+    <Property Name="Temperature" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+    <Property Name="WeatherText" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+    <Property Name="Date" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+  </EntityType>
+</Schema>

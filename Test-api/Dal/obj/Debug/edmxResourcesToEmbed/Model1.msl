@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WeatherModelStoreContainer" CdmEntityContainer="WeatherEntities1">
+    <EntitySetMapping Name="favorite_cities">
+      <EntityTypeMapping TypeName="WeatherModel.favorite_cities">
+        <MappingFragment StoreEntitySet="favorite_cities">
+          <ScalarProperty Name="CityId" ColumnName="CityId" />
+          <ScalarProperty Name="LocalizedName" ColumnName="LocalizedName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cities_weather">
+      <EntityTypeMapping TypeName="WeatherModel.cities_weather">
+        <MappingFragment StoreEntitySet="cities_weather">
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="WeatherText" ColumnName="WeatherText" />
+          <ScalarProperty Name="Temperature" ColumnName="Temperature" />
+          <ScalarProperty Name="CityId" ColumnName="CityId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

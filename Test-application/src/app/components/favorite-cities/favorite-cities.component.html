@@ -1,0 +1,19 @@
+<div class="wrapper-div">
+    <h1 style="text-align: center;color: #400b2b;">Favorites</h1>
+    <div style="display: flex;justify-content: space-evenly;">
+        <div *ngIf='cityWeather' style="font-weight: bold;">
+            <p>{{localCity.LocalizedName}} </p>
+            <p>{{cityWeather.WeatherText}}</p>
+            <p>{{cityWeatherTemperature}}</p>
+        </div>
+        <div style="display:flex ; align-items: center;    height: 84px;cursor: pointer;" (click)=" DeleteCityFromFavorites(localCity)">
+            <img class="favorite" src="assets\favoriteIcon.png"> remove from favorites
+            <div *ngIf='showDiv'><br>choose a city to delete</div>
+        </div>
+        <div *ngIf='favoriteCities' class="list-cities">
+            <ul *ngFor='let city of favoriteCities'>
+                <li (click)=" saveCityLocally(city)">{{city.LocalizedName}}</li>
+            </ul>
+        </div>
+    </div>
+</div>

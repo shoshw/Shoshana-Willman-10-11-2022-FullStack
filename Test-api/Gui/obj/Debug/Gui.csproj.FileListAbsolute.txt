@@ -1,0 +1,232 @@
+C:\Users\Public\שושנה\Test-api\Gui\bin\Gui.dll.config
+C:\Users\Public\שושנה\Test-api\Gui\bin\Gui.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Gui.pdb
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\csc.exe
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\csc.exe.config
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\csc.rsp
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\csi.exe
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\csi.exe.config
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\csi.rsp
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.AppContext.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Console.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.IO.Compression.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Net.Http.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.ValueTuple.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\vbc.exe
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\vbc.exe.config
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\vbc.rsp
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\VBCSCompiler.exe
+C:\Users\Public\שושנה\Test-api\Gui\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Newtonsoft.Json.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\System.Net.Http.Formatting.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\System.Web.Cors.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\System.Web.Http.Cors.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\System.Web.Http.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\System.Web.Http.WebHost.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\System.Net.Http.Formatting.xml
+C:\Users\Public\שושנה\Test-api\Gui\bin\System.Web.Http.xml
+C:\Users\Public\שושנה\Test-api\Gui\bin\System.Web.Http.Cors.xml
+C:\Users\Public\שושנה\Test-api\Gui\bin\Newtonsoft.Json.xml
+C:\Users\Public\שושנה\Test-api\Gui\bin\System.Web.Http.WebHost.xml
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Public\שושנה\Test-api\Gui\obj\Debug\Gui.csproj.AssemblyReference.cache
+C:\Users\Public\שושנה\Test-api\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+C:\Users\Public\שושנה\Test-api\Gui\obj\Debug\Gui.csproj.CopyComplete
+C:\Users\Public\שושנה\Test-api\Gui\obj\Debug\Gui.dll
+C:\Users\Public\שושנה\Test-api\Gui\obj\Debug\Gui.pdb
+C:\Users\Public\שושנה\Test-api\Gui\bin\Bl.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Dal.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\EntityFramework.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\EntityFramework.SqlServer.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\EnvDTE.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\EnvDTE80.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\VSLangProj.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\stdole.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.Shell.Design.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.Build.Framework.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\System.Collections.Immutable.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\System.Memory.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\System.IO.Pipelines.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.MSXML.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\System.Buffers.dll
+C:\Users\Public\שושנה\Test-api\Gui\bin\Bl.pdb
+C:\Users\Public\שושנה\Test-api\Gui\bin\Dal.pdb
+C:\Users\Public\שושנה\Test-api\Gui\bin\Dal.dll.config
+C:\Users\Public\שושנה\Test-api\Gui\bin\EntityFramework.xml
+C:\Users\Public\שושנה\Test-api\Gui\bin\EntityFramework.SqlServer.xml
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\Public\שושנה\Test-api\Gui\bin\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\Public\שושנה\Test-api\Gui\bin\Bl.dll.config
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Gui.dll.config
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Gui.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Gui.pdb
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\csc.exe
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\csc.exe.config
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\csc.rsp
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\csi.exe
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\csi.exe.config
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\csi.rsp
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.AppContext.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Console.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.IO.Compression.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Net.Http.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.ValueTuple.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\vbc.exe
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\vbc.exe.config
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\vbc.rsp
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\VBCSCompiler.exe
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Bl.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\EntityFramework.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\EntityFramework.SqlServer.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Newtonsoft.Json.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\System.Net.Http.Formatting.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\System.Web.Cors.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\System.Web.Http.Cors.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\System.Web.Http.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\System.Web.Http.WebHost.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Dal.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\EnvDTE.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\EnvDTE80.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\VSLangProj.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\stdole.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.Shell.Design.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.Build.Framework.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\System.Collections.Immutable.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\System.Memory.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\System.IO.Pipelines.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.MSXML.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\System.Buffers.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Bl.pdb
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Bl.dll.config
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\EntityFramework.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\EntityFramework.SqlServer.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\System.Net.Http.Formatting.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\System.Web.Http.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\System.Web.Http.Cors.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Newtonsoft.Json.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\System.Web.Http.WebHost.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Dal.pdb
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Dal.dll.config
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\bin\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\obj\Debug\Gui.csproj.AssemblyReference.cache
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\obj\Debug\Gui.csproj.CopyComplete
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\obj\Debug\Gui.dll
+C:\Users\Public\שושנה\משימה רילקומרס\Test-api\Gui\obj\Debug\Gui.pdb

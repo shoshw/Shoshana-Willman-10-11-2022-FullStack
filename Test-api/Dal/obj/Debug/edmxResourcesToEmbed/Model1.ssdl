@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WeatherModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="cities_weather">
+    <Key>
+      <PropertyRef Name="CityId" />
+    </Key>
+    <Property Name="CityId" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="Temperature" Type="nchar" MaxLength="100" />
+    <Property Name="WeatherText" Type="nchar" MaxLength="100" />
+    <Property Name="Date" Type="nchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="favorite_cities">
+    <Key>
+      <PropertyRef Name="CityId" />
+    </Key>
+    <Property Name="CityId" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="LocalizedName" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityContainer Name="WeatherModelStoreContainer">
+    <EntitySet Name="cities_weather" EntityType="Self.cities_weather" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="favorite_cities" EntityType="Self.favorite_cities" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

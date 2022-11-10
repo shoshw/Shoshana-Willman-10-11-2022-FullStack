@@ -1,0 +1,65 @@
+.wrapper-div{
+    width: 1136px;
+    height: 100vh;
+    margin: auto;
+    border: 2px solid #312450;
+    margin-top: 62px;
+    margin-left: 30%;
+    font-family: system-ui;
+}
+
+.wrapper-div input{
+    background-color: white;
+    border-radius: 4px;
+    width: 30%;
+    border: 1px solid #312450;
+    font-family: system-ui;
+    margin-right: 20%;
+    font-size: 20px;
+}
+
+.searchWrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 5%;
+}
+
+.wrapper-div button{
+    background-color: white;
+    border-radius: 4px;
+    width: 15%;
+    border: 1px solid #312450;
+    font-family: system-ui;
+    margin-right: 2%;
+    /* padding: 2%; */
+    font-weight: bold;
+}
+
+.favoriteWrapper{
+    display:flex ;
+    align-items: center;
+    height: 84px;
+}
+
+.favorite{
+   height: 40px;
+}
+
+.list-cities{
+    width: 120px;
+    border-left: 2px solid;
+    height: 648px;
+}
+.list-cities ul{
+    list-style-type: none;
+    line-height: 50px;
+}
+
+.list-cities li{
+    cursor: pointer;
+}
+
+ul:focus  {
+    background: red;
+    outline: 0;
+  }

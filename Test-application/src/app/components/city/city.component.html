@@ -1,0 +1,23 @@
+<div class="wrapper-div">
+    <h1 style="text-align: center;color: #400b2b;">Weather forecast</h1>
+    <div class=searchWrapper>
+        <p style=" margin-right: 20%;font-weight: bold;">Cities List</p>
+        <input class="" type="text" id="cityUsername" name="cityUsername" [(ngModel)]="cityUsername">
+        <button (click)=getAutoComplete(cityUsername)>search</button>
+    </div>
+    <div style="display: flex;justify-content: space-evenly;">
+        <div *ngIf='cityWeather' style="font-weight: bold;">
+            <p>{{chosenCityName}} </p>
+            <p>{{cityWeather.WeatherText}}</p>
+            <p>{{cityWeatherTemperature}}</p>
+        </div>
+        <div class="favoriteWrapper" style="display:flex ; align-items: center; height: 84px; cursor: pointer;"
+            (click)="addCityToFavorites(chosenCityKey,chosenCityName)"><img class="favorite"
+                src="assets\favoriteIcon.png"> add to favorites</div>
+        <div class="list-cities">
+            <ul *ngFor='let city of cities'>
+                <li (click)="GetCurrentWeather(city.Key,city.LocalizedName)">{{city.LocalizedName}}</li>
+            </ul>
+        </div>
+    </div>
+</div>

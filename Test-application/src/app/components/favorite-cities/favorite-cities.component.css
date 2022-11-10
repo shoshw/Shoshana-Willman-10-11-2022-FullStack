@@ -1,0 +1,27 @@
+.wrapper-div{
+    width: 1136px;
+    height: 100vh;
+    margin: auto;
+    border: 2px solid #312450;   
+    margin-top: 62px;
+    margin-left: 30%;
+    font-family: system-ui;
+}
+
+.favorite{
+   height: 40px;
+}
+
+.list-cities{
+    width: 120px;
+    border-left: 2px solid;
+    height: 300px;
+}
+.list-cities ul{
+    list-style-type: none;
+    line-height: 50px;
+}
+
+.list-cities li{
+    cursor: pointer;
+}
